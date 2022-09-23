@@ -6,8 +6,8 @@ function Info() {
   return (
     <div
       id="iv-card"
-      className="xl:h-screen outline outline-offset-[-40px] outline-burnt-orange 
-        xl:grid xl:grid-cols-2 xl:gap-0 xl:px-48"
+      className="xl:h-[770px] outline outline-offset-[-40px] outline-burnt-orange 
+        xl:grid xl:grid-cols-2 xl:gap-0 xl:px-40 xl:overflow-hidden"
     >
       {/* ------------- image -------------- */}
       <div
@@ -26,7 +26,7 @@ function Info() {
 
         <p
           className="customized-text text-center text-5xl text-burnt-orange
-            sm:text-5xl md:text-6xl lg:text-6xl
+            sm:text-5xl md:text-5xl lg:text-5xl
             py-10"
         >
           Chinonso {"&"} Kester
@@ -51,13 +51,7 @@ function Info() {
           STARTING AT 11:00 IN THE MORNING
         </p>
 
-        {/* <p className="text-center text-slate-400 p-5 text-xl font-bold uppercase">
-          Kingdom Hall Of Jehovah's Witnesses <br />
-          11 Ali Ijaye St., by Useni St., Opp. GTB, Lawanson B/Stop, Surulere,
-          Lagos
-        </p> */}
-
-        <div className="flex justify-center pt-14 mb-14 xl:mb-0">
+        <div className="flex justify-center pt-8 mb-14 xl:mb-0">
           <a
             href="#reception"
             className="font-mono animate-bounce
