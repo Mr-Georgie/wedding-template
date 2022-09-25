@@ -6,19 +6,20 @@ function Info() {
   return (
     <div
       id="iv-card"
-      className="xl:h-[770px] outline outline-offset-[-22px] outline-burnt-orange 
-        xl:grid xl:grid-cols-2 xl:gap-0 xl:px-40 xl:overflow-hidden"
+      className="xl:h-[770px] lg:m-16
+        xl:grid xl:grid-cols-2 xl:gap-0 xl:px-24 xl:overflow-hidden"
     >
+      {/* md:outline md:outline-offset-[-22px] outline-burnt-orange  */}
       {/* ------------- image -------------- */}
       <div
-        className="overflow-hidden h-[300px] md:h-[450px] px-5 
+        className="overflow-hidden h-[300px] md:h-[450px] 
         xl:px-0 xl:h-full"
       >
         <img src={coupleImg} alt="" />
       </div>
 
       {/* ------------ Content ------------- */}
-      <div className="p-5 m-5 mt-0 lg:mt-5">
+      <div className="p-5 border border-burnt-orange">
         {/* border-4 border-dashed border-t-0 lg:border-t-4 */}
         <h2 className="text-center text-slate-400 text-xl p-5 font-bold">
           JOIN US TO CELEBRATE THE WEDDING OF
