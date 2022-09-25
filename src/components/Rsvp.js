@@ -6,7 +6,7 @@ function Rsvp() {
     <div id="rsvp" className="xl:h-screen">
       {/* ----------- Content -------- */}
       <div className="xl:px-32">
-        <h2 className="text-center text-6xl customized-text text-burnt-orange py-16">
+        <h2 className="text-center text-4xl md:text-6xl customized-text text-burnt-orange py-16">
           Have Questions?
         </h2>
 

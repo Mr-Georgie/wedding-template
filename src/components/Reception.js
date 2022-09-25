@@ -9,7 +9,7 @@ function Reception() {
     <div id="reception" className="xl:h-[800px] flower-bg">
       {/* ----------- Content -------- */}
       <div className="xl:px-32">
-        <h2 className="text-center text-6xl customized-text text-burnt-orange py-10">
+        <h2 className="text-center text-4xl md:text-6xl customized-text text-burnt-orange py-10">
           Place {"&"} Time
         </h2>
 

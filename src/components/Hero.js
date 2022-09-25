@@ -134,21 +134,29 @@ function Hero() {
         </h1>
 
         {/* --------- countdown ------ */}
-        <div className="flex justify-center gap-10">
+        <div className="flex justify-center gap-6 md:gap-10">
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-3xl font-bold">{days}</h4>
+            <h4 className="text-3xl sm:text-4xl md:text-5xl font-extrabold">
+              {days}
+            </h4>
             <h6 className="uppercase font-mono text-xs">days</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-3xl font-bold">{hours}</h4>
+            <h4 className="text-3xl sm:text-4xl md:text-5xl font-extrabold">
+              {hours}
+            </h4>
             <h6 className="uppercase font-mono text-xs">hours</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-3xl font-bold">{minutes}</h4>
+            <h4 className="text-3xl sm:text-4xl md:text-5xl font-extrabold">
+              {minutes}
+            </h4>
             <h6 className="uppercase font-mono text-xs">minutes</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-3xl font-bold">{seconds}</h4>
+            <h4 className="text-3xl sm:text-4xl md:text-5xl font-extrabold">
+              {seconds}
+            </h4>
             <h6 className="uppercase font-mono text-xs">seconds</h6>
           </div>
         </div>
