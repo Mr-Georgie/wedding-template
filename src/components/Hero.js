@@ -129,7 +129,7 @@ function Hero() {
         </div>
 
         {/* ------- Main text ------ */}
-        <h1 className="customized-text text-center py-10 text-4xl sm:text-5xl md:text-6xl lg:text-9xl">
+        <h1 className="customized-text text-center py-10 text-5xl sm:text-5xl md:text-6xl lg:text-9xl">
           Chinonso {"&"} Kester
         </h1>
 
