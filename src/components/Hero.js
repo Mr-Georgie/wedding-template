@@ -33,7 +33,7 @@ function Hero() {
 
   return (
     <div
-      className="static h-screen w-full flex justify-center bg-trans-black
+      className="static h-screen w-full flex justify-center bg-black
         items-center after:content-[''] after:absolute after:top-0 after:left-0 
         after:h-full after:w-full after:z-30 after:bg-trans-black"
     >
