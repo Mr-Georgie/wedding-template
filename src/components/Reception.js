@@ -40,7 +40,7 @@ function Reception() {
               </span>
               <span className="font-mono text-gray-500 text-center">
                 Crown Plaza Events <br /> Center <br />
-                157 lieshatedo Road, <br />
+                157 Ijeshatedo Road, <br />
                 Itire Surulere, <br />
                 Lagos
               </span>
