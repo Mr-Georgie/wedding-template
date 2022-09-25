@@ -33,7 +33,7 @@ function Hero() {
 
   return (
     <div
-      className="static h-screen w-full flex justify-center bg-orange-500
+      className="static h-screen w-full flex justify-center bg-trans-black
         items-center after:content-[''] after:absolute after:top-0 after:left-0 
         after:h-full after:w-full after:z-30 after:bg-trans-black"
     >
@@ -109,7 +109,7 @@ function Hero() {
               d="M19.5 12h-15"
             />
           </svg>
-          <h6 className="uppercase font-mono tracking-widest">
+          <h6 className="uppercase font-mono tracking-widest text-sm md:text-base">
             The wedding of
           </h6>
           <svg
@@ -129,7 +129,7 @@ function Hero() {
         </div>
 
         {/* ------- Main text ------ */}
-        <h1 className="customized-text text-center py-10 text-5xl sm:text-5xl md:text-6xl lg:text-9xl">
+        <h1 className="customized-text text-center py-10 text-4xl sm:text-5xl md:text-6xl lg:text-9xl">
           Chinonso {"&"} Kester
         </h1>
 

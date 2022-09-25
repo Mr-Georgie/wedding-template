@@ -47,9 +47,9 @@ function Rsvp() {
         </div>
 
         <div className="flex justify-center">
-          <div className="mt-20 border-t py-6">
-            <span className="">
-              Copyright ©2022 All rights reserved | Made ❤️ with by{" "}
+          <div className="mt-20 border-t py-6 text-center">
+            <span className=" text-center">
+              Copyright ©2022 | Made with ❤️ by{" "}
               <a
                 href="https://www.linkedin.com/in/george-isiguzo-chinonye"
                 className="text-burnt-orange hover:text-teal"
