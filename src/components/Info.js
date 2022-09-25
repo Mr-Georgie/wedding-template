@@ -41,7 +41,7 @@ function Info() {
         </p>
 
         <p
-          className="text-center text-slate-400 p-5 text-2xl md:text-4xl lg:text-4xl
+          className="text-center text-slate-400 p-5 text-xl md:text-3xl lg:text-4xl
             font-bold uppercase font-mono"
         >
           OCT | 22 | 2022
