@@ -6,7 +6,7 @@ function Info() {
   return (
     <div
       id="iv-card"
-      className="xl:h-[770px] outline outline-offset-[-30px] outline-burnt-orange 
+      className="xl:h-[770px] outline outline-offset-[-22px] outline-burnt-orange 
         xl:grid xl:grid-cols-2 xl:gap-0 xl:px-40 xl:overflow-hidden"
     >
       {/* ------------- image -------------- */}
