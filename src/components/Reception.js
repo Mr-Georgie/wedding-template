@@ -23,7 +23,8 @@ function Reception() {
               </span>
               {/* <span className="font-mono text-center text-gray-500">11 AM</span> */}
               <span className="font-mono text-gray-500 text-center">
-                Kingdom Hall Of Jehovah's Witnesses <br />
+                Kingdom Hall Of Jehovah's Witnesses <br />{" "}
+                <br className="md:hidden" />
                 11 Ali Ijaye St., By Useni St., Opp. GTB, <br />
                 Lawanson B/Stop, Surulere, Lagos
               </span>

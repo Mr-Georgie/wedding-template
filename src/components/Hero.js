@@ -129,26 +129,26 @@ function Hero() {
         </div>
 
         {/* ------- Main text ------ */}
-        <h1 className="customized-text text-center py-10 text-5xl sm:text-text-6xl md:text-7xl lg:text-9xl">
+        <h1 className="customized-text text-center py-10 text-5xl sm:text-5xl md:text-6xl lg:text-9xl">
           Chinonso {"&"} Kester
         </h1>
 
         {/* --------- countdown ------ */}
         <div className="flex justify-center gap-10">
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-5xl font-bold">{days}</h4>
+            <h4 className="text-3xl font-bold">{days}</h4>
             <h6 className="uppercase font-mono text-xs">days</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-5xl font-bold">{hours}</h4>
+            <h4 className="text-3xl font-bold">{hours}</h4>
             <h6 className="uppercase font-mono text-xs">hours</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-5xl font-bold">{minutes}</h4>
+            <h4 className="text-3xl font-bold">{minutes}</h4>
             <h6 className="uppercase font-mono text-xs">minutes</h6>
           </div>
           <div className="flex flex-col gap-4 items-center">
-            <h4 className="text-5xl font-bold">{seconds}</h4>
+            <h4 className="text-3xl font-bold">{seconds}</h4>
             <h6 className="uppercase font-mono text-xs">seconds</h6>
           </div>
         </div>
@@ -163,7 +163,7 @@ function Hero() {
                 border border-white hover:border-burnt-orange
                 px-10 py-5"
           >
-            <span>See Invitation Card</span>
+            <span className="text-sm">See Invitation Card</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
