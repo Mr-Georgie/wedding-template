@@ -1,6 +1,6 @@
 # Wedding website template
 
-A reusable template for wedding website
+A reusable template for a wedding website
 
 ## Installation
 
@@ -14,4 +14,4 @@ This will install all the dependencies from the package.json file
 
 ## Link to live app
 
-[https://moviee-library.netlify.app/](https://moviee-library.netlify.app/)
+[https://chinonso-weds-kester.link/](https://chinonso-weds-kester.link/)
