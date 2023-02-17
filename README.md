@@ -1,6 +1,6 @@
 # Wedding website template
 
-A reusable template for wedding website
+A reusable template for a wedding website
 
 ## Installation
 
