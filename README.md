@@ -14,4 +14,4 @@ This will install all the dependencies from the package.json file
 
 ## Link to live app
 
-[https://moviee-library.netlify.app/](https://moviee-library.netlify.app/)
+[https://chinonso-weds-kester.link/](https://chinonso-weds-kester.link/)
