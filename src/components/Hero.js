@@ -3,7 +3,7 @@ import useCountDown from "../Hooks/useCountDown";
 import heroVideo from "../images/videoplayback.mp4";
 
 function Hero() {
-  const deadline = "February 22 2022";
+  const deadline = "February 22 2023";
   const [total, setTotal] = useState(0);
   const [seconds, setSeconds] = useState(0);
   const [minutes, setMinutes] = useState(0);
